@@ -13,12 +13,12 @@ Gem::Specification.new do |s|
   s.description = %q{Carrier IP Address List for jpmobile}
   s.email = %q{rust.stnard@gmail.com}
   s.extra_rdoc_files = [
-    "README"
+    "README.rdoc"
   ]
   s.files = [
     ".gitignore",
      "MIT-LICENSE",
-     "README",
+     "README.rdoc",
      "Rakefile",
      "VERSION",
      "jpmobile-ipaddresses.gemspec",
